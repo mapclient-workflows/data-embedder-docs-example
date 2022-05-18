@@ -1,0 +1,25 @@
+{
+    "fittedCoordinatesField": "fitted coordinates",
+    "materialCoordinatesField": "brainstem coordinates",
+    "hostMarkerGroup": "marker",
+    "dataCoordinatesField": "coordinates",
+    "dataMarkerGroup": "marker",
+    "diagnosticLevel": 0,
+    "groupData": {
+        "nucleus": {
+            "embed": true,
+            "dimension": 0,
+            "size": 2
+        },
+        "cranial nerve": {
+            "embed": true,
+            "dimension": 1,
+            "size": 3
+        },
+        "marker": {
+            "embed": false,
+            "dimension": 0,
+            "size": 2
+        }
+    }
+}
